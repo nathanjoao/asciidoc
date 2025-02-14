@@ -1,8 +1,6 @@
 = Sistema de Gerenciamento de Biblioteca
 
-*Sumário*
-
-== Sumário
+=== Sumário
 
 1. <<sobre-o-projeto,📖 Sobre o Projeto>>
 2. <<recursos,🛠️ Recursos>>
